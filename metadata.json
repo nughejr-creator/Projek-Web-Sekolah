@@ -1,0 +1,6 @@
+{
+  "name": "SDN Cinanggerang I - Website Resmi Sekolah Dasar",
+  "description": "Website resmi SDN Cinanggerang I: Profil sekolah, PPDB Online, Daftar Guru & Siswa, E-Learning, Absensi Online, Perpustakaan Digital, dan Galeri Kegiatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
